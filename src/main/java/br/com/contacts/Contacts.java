@@ -40,8 +40,8 @@ package br.com.contacts;
  *
  * Constraints
  *
- * name and partial contain lowercase English letters only.
- * The input does not have any duplicate name for the add operation.
+ * image
+ *
  * Sample Input
  *
  * STDIN           Function
